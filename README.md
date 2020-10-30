@@ -1,7 +1,7 @@
 # Exploring-Hacker-News-Posts
 
-Short python project analysing user comment behaviour from website Hacker News on Jupyter Notebook.
+Short project analysing user comment behaviour from website Hacker News.
 
-Modules used: random, datetime
+Key skills: python, Jupyter Notebook, basic data preparation. (datetime)
 
 This is a guided project from Dataquest.io
